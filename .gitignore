@@ -1,0 +1,7 @@
+# compiled files
+*.py[cod]
+
+# logs
+*.log
+rooms/
+
